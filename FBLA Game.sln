@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FBLA Game", "FBLA Game.csproj", "{F3DCEE91-D6BE-EAF9-9C40-C677A5BA44EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3DCEE91-D6BE-EAF9-9C40-C677A5BA44EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DCEE91-D6BE-EAF9-9C40-C677A5BA44EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DCEE91-D6BE-EAF9-9C40-C677A5BA44EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DCEE91-D6BE-EAF9-9C40-C677A5BA44EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
