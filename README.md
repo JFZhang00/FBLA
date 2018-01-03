@@ -1,0 +1,4 @@
+# FBLA
+For FBLA Game Competition 2018. This is for the Computer Game & Simulation Programming competition.
+
+Topic: "A sandbox is a style of game in which minimal character limitations are placed on the gamer, allowing the gamer to roam and change a virtual world at will. In contrast to a progression-style game, a sandbox game emphasizes roaming and allows a gamer to select tasks. Instead of featuring segmented areas or numbered levels, a sandbox game usually occurs in a “world” to which the gamer has full access from start to finish. Create an original sandbox-style game that revolves around a year in the life of a typical FBLA member and the varied activities that he/she can become involved in; such as competitive events, fundraising, community service, national membership programs, and national recognition programs. "
